@@ -1,0 +1,170 @@
+{
+  "labradorite": {
+    "name": "Labradorite",
+    "image": "images/labradorite.jpg",
+    "description": "A stone of transformation and magic, known for its iridescent play of colors.",
+    "color": "Grey/Blue Iridescent"
+  },
+  "celestite": {
+    "name": "Celestite",
+    "image": "images/celestite.jpg",
+    "description": "A high-vibration stone known for promoting peace, mental clarity, and spiritual sky-blue energy.",
+    "color": "Pale Blue"
+  },
+  "selenite": {
+    "name": "Selenite",
+    "image": "images/selenite.jpg",
+    "description": "Used for clearing energy blockages and bringing divine light into the environment.",
+    "color": "White/Translucent"
+  },
+  "golden-healer": {
+    "name": "Golden Healer",
+    "image": "images/golden-healer.jpg",
+    "description": "A powerful healing crystal that allows the golden light of Universal Life Force to flow into the body.",
+    "color": "Golden Yellow"
+  },
+  "moonstone": {
+    "name": "Moonstone",
+    "image": "images/moonstone.jpg",
+    "description": "A stone for new beginnings, inner growth, and strength.",
+    "color": "Creamy White/Blue Flash"
+  },
+  "obsidian": {
+    "name": "Obsidian",
+    "image": "images/obsidian.jpg",
+    "description": "A strongly protective stone, it forms a shield against negativity.",
+    "color": "Black"
+  },
+  "amethyst": {
+    "name": "Amethyst",
+    "image": "images/amethyst.jpg",
+    "description": "A natural stress reliever that encourages inner strength and spiritual growth.",
+    "color": "Purple"
+  },
+  "moss-agate": {
+    "name": "Moss Agate",
+    "image": "images/moss-agate.jpg",
+    "description": "A stone of new beginnings and abundance, associated with nature and growth.",
+    "color": "Green/White"
+  },
+  "fluorite": {
+    "name": "Fluorite",
+    "image": "images/fluorite.jpg",
+    "description": "Absorbs and neutralizes negative energy and stress.",
+    "color": "Rainbow/Purple/Green"
+  },
+  "dragonblood": {
+    "name": "Dragonblood Jasper",
+    "image": "images/dragonblood.jpg",
+    "description": "Promotes courage, vitality, and strength of will.",
+    "color": "Deep Green/Red"
+  },
+  "calcite-caribbean": {
+    "name": "Caribbean Calcite",
+    "image": "images/calcite-caribbean.jpg",
+    "description": "A calming stone that aids in relaxation and lucid dreaming.",
+    "color": "Ocean Blue/Sand"
+  },
+  "rose-quartz": {
+    "name": "Rose Quartz",
+    "image": "images/rose-quartz.jpg",
+    "description": "The stone of universal love, restoring trust and harmony in relationships.",
+    "color": "Pink"
+  },
+  "quartz-clear": {
+    "name": "Clear Quartz",
+    "image": "images/quartz-clear.jpg",
+    "description": "The 'Master Healer', it amplifies energy and thought.",
+    "color": "Clear"
+  },
+  "emberlite": {
+    "name": "Emberlite",
+    "image": "images/emberlite.jpg",
+    "description": "A unique stone that glows like fire under UV light.",
+    "color": "Grey (Glows Orange)"
+  },
+  "green-aventurine": {
+    "name": "Green Aventurine",
+    "image": "images/green-aventurine.jpg",
+    "description": "Known as the Stone of Opportunity, thought to be the luckiest of all crystals.",
+    "color": "Green"
+  },
+  "citrine": {
+    "name": "Citrine",
+    "image": "images/citrine.jpg",
+    "description": "Associated with wealth, prosperity, and success.",
+    "color": "Yellow"
+  },
+  "pink-amethyst": {
+    "name": "Pink Amethyst",
+    "image": "images/pink-amethyst.jpg",
+    "description": "A softer energy than purple amethyst, focused on heart-healing and comfort.",
+    "color": "Dusty Pink"
+  },
+  "lapis-lazuli": {
+    "name": "Lapis Lazuli",
+    "image": "images/lapis-lazuli.jpg",
+    "description": "A stone of wisdom, intuition, and truth.",
+    "color": "Deep Blue/Gold"
+  },
+  "black-tourmaline": {
+    "name": "Black Tourmaline",
+    "image": "images/black-tourmaline.jpg",
+    "description": "A powerful grounding stone, used for protection against negative energies.",
+    "color": "Black"
+  },
+  "smoky-quartz": {
+    "name": "Smoky Quartz",
+    "image": "images/smoky-quartz.jpg",
+    "description": "An excellent grounding stone that gently neutralizes negative vibrations.",
+    "color": "Translucent Brown"
+  },
+  "garden-quartz": {
+    "name": "Garden Quartz",
+    "image": "images/garden-quartz.jpg",
+    "description": "Contains inclusions that look like tiny landscapes or underwater scenes.",
+    "color": "Clear with Inclusions"
+  },
+  "red-jasper": {
+    "name": "Red Jasper",
+    "image": "images/red-jasper.jpg",
+    "description": "A stone of physical strength and energy, providing a sense of stability.",
+    "color": "Deep Red"
+  },
+  "ruby-zoisite": {
+    "name": "Ruby Zoisite",
+    "image": "images/ruby-zoisite.jpg",
+    "description": "A stone that blends the energies of the heart and the root chakras.",
+    "color": "Green/Pink"
+  },
+  "pink-opal": {
+    "name": "Pink Opal",
+    "image": "images/pink-opal.jpg",
+    "description": "A stone of love and gentleness, helpful for emotional healing.",
+    "color": "Soft Pink"
+  },
+  "amazonite": {
+    "name": "Amazonite",
+    "image": "images/amazonite.jpg",
+    "description": "A soothing stone that calms the brain and nervous system.",
+    "color": "Turquoise/Green"
+  },
+  "ocean-jasper": {
+    "name": "Ocean Jasper",
+    "image": "images/ocean-jasper.jpg",
+    "description": "Encourages feelings of joy, happiness, and elevated spirits.",
+    "color": "Multicolored/Orbital"
+  },
+  "apatite": {
+    "name": "Apatite",
+    "image": "images/apatite.jpg",
+    "description": "A stone of manifestation and inspiration.",
+    "color": "Neon Blue"
+  },
+  "garnet": {
+    "name": "Garnet",
+    "image": "images/garnet.jpg",
+    "description": "A stone of passion, energy, and health.",
+    "color": "Deep Red"
+  }
+}

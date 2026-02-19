@@ -1,0 +1,140 @@
+/* 1. General Styles */
+body {
+    font-family: 'Cinzel', 'Segoe UI', serif;
+    background-color: #f4f7f6; /* Soft light grey/green background */
+    color: #c8e6e6; /* Deep slate text */
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* 2. Header & Logo */
+header {
+    background-color: #0d3b41; /* Deep teal to match your logo */
+    width: 100%;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+#logo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid #ffffff;
+    object-fit: cover;
+}
+
+/* 3. Main Content Container */
+main {
+    background-color: #0a1a1a;
+    max-width: 1060px;
+    width: 90%;
+    margin: 40px 0;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    text-align: center;
+}
+
+/* 4. Crystal Image */
+#crystal-img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+}
+
+/* 5. Typography */
+h1 {
+    color: #7ecece;
+    font-size: 2.2rem;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+    text-shadow: 0 0 12px rgba(126, 206, 206, 0.4);
+}
+
+#crystal-desc {
+    font-size: 1.1rem;
+    color: #555;
+    margin: 20px 0;
+}
+
+#crystal-color {
+    font-weight: bold;
+    color: #1a7a85; /* Brighter teal for emphasis */
+}
+
+/* 6. Footer/Nav Buttons (Optional) */
+.back-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #1a7a85;
+    color: #f0fafa;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid #7ecece;
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+}
+
+.back-btn:hover {
+    background-color: #0d3b41;
+    box-shadow: 0 0 12px rgba(26, 122, 133, 0.7);
+}
+/* Gallery Grid Layout */
+#gallery-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+}
+.crystal-card {
+    background: #0a1a1a;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    color: #7ecece;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    border: 1px solid #1a7a85;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.crystal-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 18px rgba(26, 122, 133, 0.7);
+    border-color: #7ecece;
+}
+
+.crystal-card img {
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.crystal-card h3 {
+    font-size: 1rem;
+    margin: 10px 0 0 0;
+    color: #7ecece;
+}
+
+/* Single Crystal Detail View */
+.crystal-detail {
+    max-width: 600px;
+    margin: auto;
+}
+
+.crystal-detail-img {
+    width: 100%;
+    border-radius: 15px;
+    border: 2px solid #1a7a85;
+    box-shadow: 0 0 25px rgba(26, 122, 133, 0.6);
+}
