@@ -21,11 +21,9 @@ header {
 }
 
 #logo {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    border: 3px solid #ffffff;
-    object-fit: cover;
+    width: 300px;
+    height: auto;
+    object-fit: contain;
 }
 
 /* 3. Main Content Container */
@@ -137,4 +135,32 @@ h1 {
     border-radius: 15px;
     border: 2px solid #1a7a85;
     box-shadow: 0 0 25px rgba(26, 122, 133, 0.6);
+}
+
+/* Floating Facebook Button */
+#fb-float {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: #1a7a85;
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 15px rgba(26, 122, 133, 0.7);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    z-index: 1000;
+}
+
+#fb-float:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 25px rgba(126, 206, 206, 0.8);
+}
+
+#fb-float img {
+    width: 28px;
+    height: 28px;
+    filter: invert(1);
 }
