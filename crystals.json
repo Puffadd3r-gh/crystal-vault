@@ -2,169 +2,198 @@
   "labradorite": {
     "name": "Labradorite",
     "image": "images/labradorite.jpg",
-    "description": "A stone of transformation and magic, known for its iridescent play of colors.",
-    "color": "Grey/Blue Iridescent"
+    "description": "Known for its stunning iridescent play of color (called labradorescence), labradorite is a feldspar mineral with flashes of blue, green, gold, and sometimes purple. It's considered a stone of transformation and magic, often used to enhance intuition, psychic abilities, and self-discovery. Many people use it during meditation or spiritual work, and it's also said to help with anxiety and stress by strengthening trust in the universe.",
+    "color": "Grey/Blue Iridescent",
+    "origin": "First discovered in Labrador, Canada (which is where it gets its name), though significant deposits are also found in Finland, Madagascar, Russia, and Australia."
   },
   "celestite": {
     "name": "Celestite",
     "image": "images/celestite.jpg",
-    "description": "A high-vibration stone known for promoting peace, mental clarity, and spiritual sky-blue energy.",
-    "color": "Pale Blue"
+    "description": "A soft, pale blue crystal with a delicate, almost ethereal appearance. Celestite is associated with calm, peace, and angelic communication. People often place it in their bedroom to promote restful sleep and gentle dreams. It's also used in meditation to quiet the mind and open up a sense of inner stillness and spiritual connection.",
+    "color": "Pale Blue",
+    "origin": "Major deposits are found in Madagascar, which produces some of the most well-known clusters. It's also found in Egypt, Libya, Peru, Britain, and parts of the United States."
   },
   "selenite": {
     "name": "Selenite",
     "image": "images/selenite.jpg",
-    "description": "Used for clearing energy blockages and bringing divine light into the environment.",
-    "color": "White/Translucent"
+    "description": "A form of gypite gypsum, selenite is typically white or translucent with a silky, fibrous appearance. It's strongly associated with clarity, purification, and high-vibrational energy. One of its most popular uses is cleansing other crystals — many people place their stones on a selenite plate or slab to recharge them. It's also used to clear stagnant energy from a space and promote mental clarity.",
+    "color": "White/Translucent",
+    "origin": "Found in many places around the world, with notable sources in Mexico (particularly the famous Cave of the Crystals in Chihuahua), Morocco, Australia, Greece, and the United States."
   },
   "golden-healer": {
     "name": "Golden Healer",
     "image": "images/golden-healer.jpg",
-    "description": "A powerful healing crystal that allows the golden light of Universal Life Force to flow into the body.",
-    "color": "Golden Yellow"
+    "description": "A quartz crystal with iron oxide inclusions that give it a warm golden-yellow hue. It's considered a powerful healing stone, thought to work on multiple levels — physical, emotional, and spiritual. People use it to raise their energetic vibration, promote wholeness and wellbeing, and connect with higher states of consciousness. It's a popular choice for energy healers and those drawn to holistic practices.",
+    "color": "Golden Yellow",
+    "origin": "Primarily sourced from Arkansas in the United States, which is one of the world's most significant quartz-producing regions. It's also found in Wales and parts of China."
   },
   "moonstone": {
     "name": "Moonstone",
     "image": "images/moonstone.jpg",
-    "description": "A stone for new beginnings, inner growth, and strength.",
-    "color": "Creamy White/Blue Flash"
+    "description": "A milky, luminescent feldspar mineral with a beautiful sheen known as adularescence. Moonstone is strongly connected to feminine energy, cycles, and intuition. It's traditionally used to support emotional balance, fertility, and new beginnings. Many people are drawn to it during times of change or transition, and it's considered a lovely stone for nurturing self-compassion and inner reflection.",
+    "color": "Creamy White/Blue Flash",
+    "origin": "The most prized and historically significant moonstone comes from Sri Lanka, where it has been treasured for centuries. It's also found in India, Myanmar, Madagascar, Brazil, and the United States."
   },
   "obsidian": {
     "name": "Obsidian",
     "image": "images/obsidian.jpg",
-    "description": "A strongly protective stone, it forms a shield against negativity.",
-    "color": "Black"
+    "description": "A naturally occurring volcanic glass, typically jet black and very smooth. Obsidian is one of the most well-known protective stones, said to create a strong shield against negativity and psychic attack. It's also deeply associated with truth — it's said to reflect your inner self honestly, helping you recognize and release unhealthy patterns, shadow aspects, and emotional blockages. Black obsidian in particular is considered quite intense and grounding.",
+    "color": "Black",
+    "origin": "Being volcanic glass, obsidian is found wherever there has been significant volcanic activity. Major sources include Mexico, the United States (particularly Oregon, Idaho, and California), Iceland, Italy, Japan, and Armenia."
+
   },
   "amethyst": {
     "name": "Amethyst",
     "image": "images/amethyst.jpg",
-    "description": "A natural stress reliever that encourages inner strength and spiritual growth.",
-    "color": "Purple"
+    "description": "One of the most beloved and widely used crystals, amethyst is a purple variety of quartz ranging from pale lilac to deep violet. It's associated with calm, clarity, and spiritual awareness. People use it to relieve stress and anxiety, support restful sleep, aid meditation, and promote sobriety and clear thinking. It's also said to open the third eye and crown chakras, making it a go-to stone for spiritual development.",
+    "color": "Purple",
+    "origin": "Brazil and Uruguay are the world's largest producers and are responsible for most of the amethyst on the market today. It's also found in Zambia, South Korea, Russia, India, and the United States."
   },
   "moss-agate": {
     "name": "Moss Agate",
     "image": "images/moss-agate.jpg",
-    "description": "A stone of new beginnings and abundance, associated with nature and growth.",
-    "color": "Green/White"
+    "description": "A translucent to milky white agate with green, moss-like inclusions of minerals throughout. It's strongly connected to nature, growth, and abundance. Moss agate is often called a gardener's stone and is said to encourage new beginnings, patience, and perseverance. People use it to attract prosperity, connect with the natural world, and support emotional stability during periods of stagnation or slow growth.",
+    "color": "Green/White",
+    "origin": "Found in a number of locations including India, which is one of the primary sources, as well as the United States, Brazil, Uruguay, central Europe, and Australia."
   },
   "fluorite": {
     "name": "Fluorite",
     "image": "images/fluorite.jpg",
-    "description": "Absorbs and neutralizes negative energy and stress.",
-    "color": "Rainbow/Purple/Green"
+    "description": "Available in a wide range of colors — purple, green, blue, yellow, and multicolored — fluorite is prized for its clarity and orderly crystal structure. It's considered one of the best stones for mental focus, organization, and absorbing new information, making it popular among students and those doing detailed work. It's also used to cleanse and stabilize the aura and to help with decision-making and mental fog.",
+    "color": "Rainbow/Purple/Green",
+    "origin": "One of the more widely distributed minerals on the list, fluorite is found in China (the world's largest producer), Mexico, South Africa, Mongolia, the United Kingdom, and the United States."
   },
   "dragonblood": {
     "name": "Dragonblood Jasper",
     "image": "images/dragonblood.jpg",
-    "description": "Promotes courage, vitality, and strength of will.",
-    "color": "Deep Green/Red"
+    "description": "A striking green and red stone, the green is said to resemble dragon scales while the red resembles dragon blood, lending it its evocative name. It's associated with strength, courage, and vitality. People use it to tap into personal power, overcome challenges, and stimulate creativity. It's also considered a stone of compassion, helping balance fierce determination with emotional warmth.",
+    "color": "Deep Green/Red",
+    "origin": "Primarily found in Western Australia, which is considered its main and most significant source. It gives the stone a strong connection to Australian earth energy."
   },
   "calcite-caribbean": {
     "name": "Caribbean Calcite",
     "image": "images/calcite-caribbean.jpg",
-    "description": "A calming stone that aids in relaxation and lucid dreaming.",
-    "color": "Ocean Blue/Sand"
+    "description": "A relatively recently discovered combination of blue calcite and brown/white aragonite, with a dreamy, ocean-like appearance. It's associated with tranquility, emotional healing, and perspective. People use it to calm an overactive mind, connect with their inner wisdom, and promote a sense of peace similar to sitting by the sea. It's also linked to dream work and deepening meditation practices.",
+    "color": "Ocean Blue/Sand",
+    "origin": "A relatively recently discovered stone, first found in Pakistan around 2019. Despite its oceanic name and appearance, it does not actually come from the Caribbean."
   },
   "rose-quartz": {
     "name": "Rose Quartz",
     "image": "images/rose-quartz.jpg",
-    "description": "The stone of universal love, restoring trust and harmony in relationships.",
-    "color": "Pink"
+    "description": "Perhaps the most universally recognized crystal for love, rose quartz is a soft, pale pink stone with a gentle, nurturing energy. It's associated with all forms of love — romantic, self-love, familial, and compassionate love for others. People use it to open the heart chakra, heal emotional wounds, attract loving relationships, and cultivate greater tenderness and forgiveness toward themselves and others.",
+    "color": "Pink",
+    "origin": "Brazil is the primary commercial source of rose quartz. It's also found in Madagascar, India, South Africa, and the United States, particularly in South Dakota."
   },
   "quartz-clear": {
     "name": "Clear Quartz",
     "image": "images/quartz-clear.jpg",
-    "description": "The 'Master Healer', it amplifies energy and thought.",
-    "color": "Clear"
+    "description": "Often called the master healer, clear quartz is one of the most versatile and widely used crystals in the world. It's said to amplify energy, intention, and the properties of other crystals placed near it. People use it for manifestation, clarity of thought, and cleansing energy. It's also commonly used in grids, meditation, and healing practices because of its ability to be programmed with almost any intention.",
+    "color": "Clear",
+    "origin": "One of the most abundant minerals on Earth, clear quartz is found on virtually every continent. Major sources include Brazil, the United States (Arkansas), Madagascar, China, and the Alps in Europe."
   },
   "emberlite": {
     "name": "Emberlite",
     "image": "images/emberlite.jpg",
-    "description": "A unique stone that glows like fire under UV light.",
-    "color": "Grey (Glows Orange)"
+    "description": "Emberlite is a trademarked or regional name sometimes used for a blend or specific variety of stone, and information on it is limited compared to more widely catalogued crystals. Generally, stones sold under this name tend to have warm reddish, orange, or golden tones and are associated with warmth, vitality, and energizing properties. If you purchased it from a specific seller, they may have more detailed information on its exact composition and intended uses.",
+    "color": "Grey (Glows Orange)",
+    "origin": "As mentioned previously, emberlite is a trademarked or regional name and its exact origin is difficult to pin down without knowing the specific seller or source. If you purchased it from a particular shop, they would likely be the best point of contact for its provenance."
   },
   "green-aventurine": {
     "name": "Green Aventurine",
     "image": "images/green-aventurine.jpg",
-    "description": "Known as the Stone of Opportunity, thought to be the luckiest of all crystals.",
-    "color": "Green"
+    "description": "A sparkly green quartz often called the stone of opportunity, green aventurine is one of the most popular stones for attracting luck, abundance, and prosperity. It's also associated with the heart chakra and is used to promote emotional calm, optimism, and confidence. People often carry it when embarking on new ventures, job interviews, or any situation where they'd welcome a little good fortune.",
+    "color": "Green",
+    "origin": "India is by far the most significant source of green aventurine and has been mining and working with it for centuries. It's also found in Brazil, Russia, Tanzania, and China."
   },
   "citrine": {
     "name": "Citrine",
     "image": "images/citrine.jpg",
-    "description": "Associated with wealth, prosperity, and success.",
-    "color": "Yellow"
+    "description": "A sunny yellow to orange-hued quartz, citrine is known as the merchant's stone or stone of abundance. Unlike many crystals, it's said to not accumulate negative energy and never needs cleansing. People use it to attract wealth, success, and positive energy, and to boost confidence, creativity, and motivation. It's also associated with joy and is used to combat depression and self-doubt.",
+    "color": "Yellow",
+    "origin": "Natural citrine is relatively rare. Brazil is the dominant source, with the Rio Grande do Sul region being particularly well known. Spain, Russia, Madagascar, and the United States also produce it, though much commercial citrine is actually heat-treated amethyst."
   },
   "pink-amethyst": {
     "name": "Pink Amethyst",
     "image": "images/pink-amethyst.jpg",
-    "description": "A softer energy than purple amethyst, focused on heart-healing and comfort.",
-    "color": "Dusty Pink"
+    "description": "A softer, pastel pink variety of amethyst found primarily in Patagonia, Argentina. It carries many of the same properties as traditional purple amethyst — calm, clarity, and emotional balance — but with an added gentleness and heart-centered energy. People use it to promote feelings of love, compassion, and peace, and it's particularly popular for those working through grief or emotional healing.",
+    "color": "Dusty Pink",
+    "origin": "This is a relatively recently introduced stone to the market, found almost exclusively in the El Chiquada mine in Patagonia, Argentina, which gives it a very specific and limited origin compared to many other crystals."
   },
   "lapis-lazuli": {
     "name": "Lapis Lazuli",
     "image": "images/lapis-lazuli.jpg",
-    "description": "A stone of wisdom, intuition, and truth.",
-    "color": "Deep Blue/Gold"
+    "description": "A deep royal blue stone flecked with gold pyrite, lapis lazuli has been prized since ancient times in Egyptian, Mesopotamian, and other cultures. It's associated with wisdom, truth, and self-expression. People use it to stimulate intellectual ability, enhance communication and honesty, and deepen self-knowledge. It's also linked to the third eye chakra and is used to enhance intuition and spiritual insight.",
+    "color": "Deep Blue/Gold",
+    "origin": "The most historically prized lapis comes from the Badakhshan province of Afghanistan, where it has been mined for over 6,000 years. It's also found in Chile, Russia, and on a smaller scale in Italy and the United States."
   },
   "black-tourmaline": {
     "name": "Black Tourmaline",
     "image": "images/black-tourmaline.jpg",
-    "description": "A powerful grounding stone, used for protection against negative energies.",
-    "color": "Black"
+    "description": "One of the most widely recommended protective stones, black tourmaline is said to create a powerful energetic shield around its owner. It's grounding, purifying, and is used to block and transmute negative energies, electromagnetic frequencies (EMFs), and psychic attack. Many people place it near the entrance of their home or near electronics, and carry it when in crowded or draining environments.",
+    "color": "Black",
+    "origin": "Brazil is the largest producer of tourmaline of all varieties. Black tourmaline specifically is also found in Africa (particularly Namibia, Nigeria, and Kenya), Pakistan, Sri Lanka, and the United States."
   },
   "smoky-quartz": {
     "name": "Smoky Quartz",
     "image": "images/smoky-quartz.jpg",
-    "description": "An excellent grounding stone that gently neutralizes negative vibrations.",
-    "color": "Translucent Brown"
+    "description": "A translucent grey to brown variety of quartz with a cool, earthy energy. Smoky quartz is deeply grounding and is considered excellent for neutralizing negative energies and releasing what no longer serves you. People use it to manage stress, anxiety, and fear, and to stay anchored during difficult periods. It's also popular for protection and is often used alongside other crystals to help ground their energy.",
+    "color": "Translucent Brown",
+    "origin": "Scotland has a long and proud association with smoky quartz, where it's known as the national gem and called cairngorm. It's also abundantly found in Brazil, Switzerland, Australia, Madagascar, and the United States."
   },
   "garden-quartz": {
     "name": "Garden Quartz",
     "image": "images/garden-quartz.jpg",
-    "description": "Contains inclusions that look like tiny landscapes or underwater scenes.",
-    "color": "Clear with Inclusions"
+    "description": "Also known as lodolite or scenic quartz, garden quartz contains inclusions of various minerals inside the quartz that create stunning, landscape-like scenes — hence the name. It's associated with journeying, both inward and spiritually, and is popular for shamanic work, past life exploration, and deep meditation. People use it to gain new perspectives, connect with nature spirits, and enhance dream work.",
+    "color": "Clear with Inclusions",
+    "origin": "The most well-known and widely available garden quartz comes from the Minas Gerais region of Brazil, which is one of the world's great crystal-producing areas. Smaller amounts are also found in the United States and Madagascar."
   },
   "red-jasper": {
     "name": "Red Jasper",
     "image": "images/red-jasper.jpg",
-    "description": "A stone of physical strength and energy, providing a sense of stability.",
-    "color": "Deep Red"
+    "description": "A rich, brick-red stone with a steady, grounding energy. Red jasper is associated with vitality, stamina, and physical strength, and has long been used as a stone of endurance and courage. People use it to boost energy levels, reconnect with the physical body, stimulate passion and motivation, and provide stability during stressful times. It's also linked to the root chakra and is used to feel more secure and supported.",
+    "color": "Deep Red",
+    "origin": "A widely occurring stone found across many continents. Notable sources include Brazil, India, Russia, the United States, and Germany."
   },
   "ruby-zoisite": {
     "name": "Ruby Zoisite",
     "image": "images/ruby-zoisite.jpg",
-    "description": "A stone that blends the energies of the heart and the root chakras.",
-    "color": "Green/Pink"
+    "description": "A striking combination of green zoisite and ruby, sometimes with black hornblende inclusions. The contrast of deep green and vivid red makes it visually captivating. It's associated with vitality, passion, and the integration of heart and mind. People use it to stimulate life force energy, overcome lethargy and grief, and encourage a zest for living. It's also considered a stone of growth and abundance.",
+    "color": "Green/Pink",
+    "origin": "This combination stone is found almost exclusively in the Longido and Merelani regions of Tanzania, East Africa, giving it a very specific geographic identity."
   },
   "pink-opal": {
     "name": "Pink Opal",
     "image": "images/pink-opal.jpg",
-    "description": "A stone of love and gentleness, helpful for emotional healing.",
-    "color": "Soft Pink"
+    "description": "A soft, opaque pink stone from Peru, pink opal has a gentle, nurturing quality. It's associated with emotional healing, tenderness, and the release of old wounds — particularly those related to love and relationships. People use it to soothe anxiety, open the heart to new possibilities, and promote peaceful sleep. It has a quieter, more subtle energy compared to many other heart stones.",
+    "color": "Soft Pink",
+    "origin": "The most well-known and widely traded pink opal comes from the Andes mountains of Peru, which is considered its primary and most significant source. It's also found in Australia and Mexico."
   },
   "amazonite": {
     "name": "Amazonite",
     "image": "images/amazonite.jpg",
-    "description": "A soothing stone that calms the brain and nervous system.",
-    "color": "Turquoise/Green"
+    "description": "A blue-green feldspar with a cool, soothing appearance reminiscent of tropical water. Amazonite is associated with truth, communication, and harmony. People use it to speak their truth with clarity and confidence, soothe emotional trauma, and set healthy boundaries. It's also said to filter out stress and absorb electromagnetic pollution, making it popular to keep near computers and phones.",
+    "color": "Turquoise/Green",
+    "origin": "Despite being named after the Amazon River, significant amazonite deposits are not actually found there. The name is thought to be a historical misnomer. The primary modern sources are Russia (particularly the Ural Mountains), Ethiopia, Brazil, the United States (Colorado and Virginia), and Madagascar."
   },
   "ocean-jasper": {
     "name": "Ocean Jasper",
     "image": "images/ocean-jasper.jpg",
-    "description": "Encourages feelings of joy, happiness, and elevated spirits.",
-    "color": "Multicolored/Orbital"
+    "description": "A rare, orbicular jasper found only along the coast of Madagascar and only accessible at low tide. It features beautiful circular patterns in greens, pinks, yellows, and whites. It's associated with joy, positivity, and the rhythms of life. People use it to cultivate patience, gratitude, and a more optimistic outlook. Its connection to the ocean also links it to emotional flow and release.",
+    "color": "Multicolored/Orbital",
+    "origin": "Uniquely found only along a remote stretch of coastline in the Marovato region of northwestern Madagascar. The deposit is only accessible by boat and at low tide, making it a genuinely rare and geographically specific stone."
   },
   "apatite": {
     "name": "Apatite",
     "image": "images/apatite.jpg",
-    "description": "A stone of manifestation and inspiration.",
-    "color": "Neon Blue"
+    "description": "Available in blue, green, yellow, and other colors, apatite is a phosphate mineral with a clear, vibrant energy. It's associated with personal growth, motivation, and the pursuit of goals. People use blue apatite in particular to enhance communication, creativity, and psychic development. It's also linked to humanitarian ideals and is said to inspire a desire to contribute positively to the world.",
+    "color": "Neon Blue",
+    "origin": "Found in many locations worldwide. Notable sources for gem-quality apatite include Brazil, Mexico, Myanmar, Madagascar, Russia, and Canada."
   },
   "garnet": {
     "name": "Garnet",
     "image": "images/garnet.jpg",
-    "description": "A stone of passion, energy, and health.",
-    "color": "Deep Red"
+    "description": "Most commonly known in deep red, though it comes in a range of colors, garnet is a stone of passion, energy, and commitment. It's associated with the root and heart chakras and is used to revitalize energy, inspire love and devotion, and encourage confidence. People use it to reignite motivation, overcome feelings of disorientation or crisis, and strengthen their sense of purpose. It's also considered a stone of protection, especially during travel.",
+    "color": "Deep Red",
+    "origin": "Garnet is found on every continent, making it one of the more geographically widespread stones on the list. Major sources include India, Russia, the United States, Sri Lanka, Tanzania (which produces the rare and vivid tsavorite garnet), and Mozambique."
   }
 }

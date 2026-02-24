@@ -1,7 +1,11 @@
+html {
+    background-color: #0a1a1a;
+}
+
 /* 1. General Styles */
 body {
     font-family: 'Cinzel', 'Segoe UI', serif;
-    background-color: #f4f7f6; /* Soft light grey/green background */
+    background-color: #0a1a1a;
     color: #c8e6e6; /* Deep slate text */
     margin: 0;
     padding: 0;
@@ -36,6 +40,7 @@ main {
     border-radius: 15px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.05);
     text-align: center;
+    margin-bottom: auto; /* Pushes footer to the bottom if content is short */
 }
 
 /* 4. Crystal Image */
@@ -163,4 +168,38 @@ h1 {
     width: 28px;
     height: 28px;
     filter: invert(1);
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    body {
+        justify-content: flex-start;
+    }
+
+    main {
+        margin: 15px 0;
+        padding: 15px;
+        width: 95%;
+    }
+
+    #gallery-container {
+        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        gap: 12px;
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 1.6rem;
+    }
+
+    #logo {
+        width: 200px;
+    }
+
+    #fb-float {
+        bottom: 15px;
+        right: 15px;
+        width: 45px;
+        height: 45px;
+    }
 }

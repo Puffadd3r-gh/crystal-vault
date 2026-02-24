@@ -14,6 +14,7 @@ const params = new URLSearchParams(window.location.search);
                         <img src="${crystal.image}" alt="${crystal.name}" class="crystal-detail-img">
                         <p>${crystal.description}</p>
                         <p><strong>Color:</strong> ${crystal.color}</p>
+                        <p><strong>Origin:</strong> ${crystal.origin}</p>
                         <a href="index.html" class="back-btn">Back to Gallery</a>
                     </div>
                 `;
