@@ -121,9 +121,10 @@ h1 {
 
 .crystal-card img {
     width: 100%;
-    height: 120px;
-    object-fit: cover;
+    height: 160px;
+    object-fit: contain
     border-radius: 5px;
+    background-color: #0a1a1a;
 }
 
 .crystal-card h3 {
