@@ -93,9 +93,9 @@ h1 {
 /* Gallery Grid Layout */
 #gallery-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 20px;
-    padding: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    padding: 10px;
     width: 100%;
     max-width: 1000px;
 }
@@ -221,4 +221,13 @@ h1 {
     .crystal-card img {
         height: 100px;
     }
+
+/* Support large screens */
+@media (min-width: 600px) {
+    #gallery-container {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 20px;
+        padding: 20px;
+    }
+}
 }
