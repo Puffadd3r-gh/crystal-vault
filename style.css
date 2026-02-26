@@ -4,7 +4,7 @@ html {
 
 /* 1. General Styles */
 body {
-    font-family: 'Cinzel', 'Segoe UI', serif;
+    font-family: 'Raleway', 'Segoe UI', sans-serif;
     background-color: #0a1a1a;
     color: #c8e6e6; /* Deep slate text */
     margin: 0;
@@ -54,6 +54,7 @@ main {
 
 /* 5. Typography */
 h1 {
+    font-family: 'Cinzel', serif;
     color: #7ecece;
     font-size: 2.2rem;
     margin-bottom: 10px;
@@ -133,13 +134,21 @@ h1 {
 .crystal-detail {
     max-width: 600px;
     margin: auto;
+    padding: 10px;
 }
 
-.crystal-detail-img {
-    width: 100%;
-    border-radius: 15px;
-    border: 2px solid #1a7a85;
-    box-shadow: 0 0 25px rgba(26, 122, 133, 0.6);
+.crystal-detail p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin: 15px 0;
+    color: #c8e6e6;
+}
+
+.crystal-detail strong {
+    color: #7ecece;
+    font-family: 'Cinzel', serif;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
 }
 
 /* Floating Facebook Button */
@@ -183,7 +192,7 @@ h1 {
     }
 
     #gallery-container {
-        grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+        grid-template-columns: repeat(2, 1fr);
         gap: 12px;
         padding: 10px;
     }
@@ -201,5 +210,15 @@ h1 {
         right: 15px;
         width: 45px;
         height: 45px;
+    }
+
+    .crystal-card h3 {
+        font-size: 0.9rem;
+        margin: 8px 0 0 0;
+        
+    }
+
+    .crystal-card img {
+        height: 100px;
     }
 }
